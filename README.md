@@ -5,7 +5,7 @@ Welcome to [RedStore]! We are thrilled to offer a wide variety of high-quality p
 ![image](https://github.com/user-attachments/assets/713320c9-0549-4490-aeb3-8e0d389a9a73)
 ![image](https://github.com/user-attachments/assets/a2381957-90b8-4a2a-839e-fbb5c28b7d10)
 
-
+,
 
 Features
 Existing Features
