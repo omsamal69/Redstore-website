@@ -1,5 +1,8 @@
 Welcome to [RedStore]! We are thrilled to offer a wide variety of high-quality products that meet all your needs and desires. Our mission is to create a seamless shopping experience with reliable service and unbeatable prices. From fashion and electronics to home goods and accessories, each item is carefully selected to provide you with the best options on the market. We’re committed to fast shipping, secure payments, and excellent customer support to make your shopping journey as smooth as possible. Explore our site, discover new products, and enjoy a world of convenience at your fingertips. Thank you for choosing us for your shopping needs!
 
+
+![Foot](https://github.com/user-attachments/assets/d933c45c-e989-4821-8c4e-2f4eb984065b)
+
 Features
 Existing Features
 1. Navigation Bar: -
